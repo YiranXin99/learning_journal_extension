@@ -1,0 +1,9 @@
+Type: Jupyter Notebook Extension
+Compatibility: 3.x, 4.x, 5.x
+Name: learning journal extension 
+Main: main.js
+Link: README.md
+Description: |
+  A learning journal extension to help people with learning when they want to extract and paste what they want.
+Parameters:
+- none
